@@ -1,6 +1,6 @@
 package top.aoao.minishop.service.impl;
 
-import top.aoao.minishop.pojo.OrderItem;
+import top.aoao.minishop.pojo.entity.OrderItem;
 import top.aoao.minishop.mapper.OrderItemMapper;
 import top.aoao.minishop.service.OrderItemService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

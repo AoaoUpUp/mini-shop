@@ -1,4 +1,4 @@
-package top.aoao.minishop.pojo;
+package top.aoao.minishop.pojo.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
@@ -23,7 +23,7 @@ import java.time.LocalDateTime;
 @Getter
 @Setter
 @ToString
-@TableName("order")
+@TableName("`order`")
 public class Order implements Serializable {
 
     private static final long serialVersionUID = 1L;

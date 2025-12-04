@@ -1,6 +1,6 @@
 package top.aoao.minishop.service;
 
-import top.aoao.minishop.pojo.User;
+import top.aoao.minishop.pojo.entity.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

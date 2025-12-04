@@ -1,7 +1,7 @@
 package top.aoao.minishop.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import top.aoao.minishop.pojo.OrderItem;
+import top.aoao.minishop.pojo.entity.OrderItem;
 
 /**
  * <p>
